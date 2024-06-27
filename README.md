@@ -8,3 +8,10 @@ You can vote and vote will be casted and save in the main csv file.
 
 Requirements:
 Jupyter Notebook
+
+user login:
+any username and password can be put,first need to register than login
+
+Admin Login:
+username - admin
+password - admin_password

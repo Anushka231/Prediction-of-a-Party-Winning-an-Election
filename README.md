@@ -1,5 +1,5 @@
-# Project
-Project on Prediction of a Party Winning an Election
+
+# Project on Prediction of a Party Winning an Election
 
 
 This project aims to build a system for prediction of a party winning an election .
@@ -11,14 +11,17 @@ When you login as Admin you can see graphical representation of:
 2. Total Votes
 3. Top 4 Parties Winning
 
-Requirements:
+ # Requirements:
 Jupyter Notebook
 
-User login:
+# User login:
 any username and password can be put,first need to register than login
 
-Admin Login:
+# Admin Login:
 
 username - admin
 
 password - admin_password
+
+
+
